@@ -1,0 +1,32 @@
+main:
+
+  - title: Tears or Cheers? Benchmarking LLMs via Culturally Elicited Distinct Affective Responses
+    authors: <strong><u>Chongyuan Dai*</u></strong>, Yaling Shen*, Jinpeng Hu, Zihan Gao, Jia Li, Yishun Jiang, Yaxiong Wang, Liu Liu, Zongyuan Ge
+    conference_short: ACL'26
+    conference: ACL 2026 Main Conference
+    pdf: https://arxiv.org/pdf/2601.13024
+    code: https://github.com/MindIntLab-HFUT/CEDAR
+    bibtex: ./assets/bib/tears_or_cheers.txt
+    image: ./assets/img/tears_or_cheers.png
+    # notes: Early Accept
+
+  - title: "Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning"
+    authors: <strong><u>Chongyuan Dai</u></strong>, Jinpeng Hu, Hongchang Shi, Zhuo Li, Dan Guo, Xun Yang, Meng Wang
+    conference_short: ACL'26
+    conference: ACL 2026 Main Conference
+    pdf: https://arxiv.org/pdf/2508.10848?
+    code: https://github.com/MindIntLab-HFUT/Psyche-R1
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/bib/psyche_r1.txt
+    # notes: Oral Presentation
+    image: ./assets/img/psyche_r1.png
+
+  - title: "Beyond Emotion Recognition: A Multi-Turn Multimodal Emotion Understanding and Reasoning Benchmark"
+    authors: Jinpeng Hu, Hongchang Shi, <strong><u>Chongyuan Dai</u></strong>, Zhuo Li, Peipei Song, Meng Wang
+    conference_short: MM'26
+    conference: ACM Multimedia 2026
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3746027.3755726
+    code: https://github.com/MindIntLab-HFUT/MTMEUR
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/mtmeur.png

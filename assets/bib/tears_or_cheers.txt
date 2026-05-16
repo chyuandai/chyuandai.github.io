@@ -1,0 +1,9 @@
+@misc{dai2026tearscheersbenchmarkingllms,
+      title={Tears or Cheers? Benchmarking LLMs via Culturally Elicited Distinct Affective Responses}, 
+      author={Chongyuan Dai and Yaling Shen and Jinpeng Hu and Zihan Gao and Jia Li and Yishun Jiang and Yaxiong Wang and Liu Liu and Zongyuan Ge},
+      year={2026},
+      eprint={2601.13024},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.13024}, 
+}
