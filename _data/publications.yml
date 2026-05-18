@@ -8,7 +8,7 @@ main:
     code: https://github.com/MindIntLab-HFUT/CEDAR
     bibtex: ./assets/bib/tears_or_cheers.txt
     image: ./assets/img/tears_or_cheers.png
-    # notes: Early Accept
+    notes: Oral
 
   - title: "Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning"
     authors: <strong><u>Chongyuan Dai</u></strong>, Jinpeng Hu, Hongchang Shi, Zhuo Li, Dan Guo, Xun Yang, Meng Wang
