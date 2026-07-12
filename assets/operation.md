@@ -8,7 +8,7 @@ git remote add origin https://github.com/chyuandai/chyuandai.github.io.git
 git add .
 
 # 4. 提交更改并添加备注
-git commit -m "更新个人主页代码"
+git commit -m "update my personal page"
 
 # 5. 确保当前分支名为 main
 git branch -M main
