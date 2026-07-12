@@ -14,8 +14,8 @@ Affective Computing, Social Intelligence, Computational Social Science, Large La
 
 ## News
 
-- **[May 2026]** Our paper "Tears or Cheers" is selected for an **Oral Presentation** at ACL 2026! 🎉
-- **[Apr. 2026]** Two papers are accepted to **ACL 2026 Main Conference**! 🎉
+- **[Jul. 2026]** Our paper "Tears or Cheers" was selected as an **ACL 2026 SAC Highlight**! 🎉
+- **[Apr. 2026]** Two papers were accepted to **ACL 2026 Main Conference**! 🎉
 
 {% include_relative _includes/publications.md %}
 

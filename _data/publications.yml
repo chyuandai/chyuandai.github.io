@@ -4,7 +4,7 @@ main:
     authors: <strong><u>Chongyuan Dai*</u></strong>, Yaling Shen*, Jinpeng Hu, Zihan Gao, Jia Li, Yishun Jiang, Yaxiong Wang, Liu Liu, Zongyuan Ge
     conference_short: ACL'26
     conference: ACL 2026 Main Conference
-    pdf: https://arxiv.org/pdf/2601.13024
+    pdf: https://aclanthology.org/2026.acl-long.1769.pdf
     code: https://github.com/MindIntLab-HFUT/CEDAR
     bibtex: ./assets/bib/tears_or_cheers.txt
     image: ./assets/img/tears_or_cheers.png
@@ -14,7 +14,7 @@ main:
     authors: <strong><u>Chongyuan Dai</u></strong>, Jinpeng Hu, Hongchang Shi, Zhuo Li, Dan Guo, Xun Yang, Meng Wang
     conference_short: ACL'26
     conference: ACL 2026 Main Conference
-    pdf: https://arxiv.org/pdf/2508.10848?
+    pdf: https://aclanthology.org/2026.acl-long.1141.pdf
     code: https://github.com/MindIntLab-HFUT/Psyche-R1
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: ./assets/bib/psyche_r1.txt
