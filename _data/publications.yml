@@ -1,9 +1,9 @@
 main:
 
   - title: Tears or Cheers? Benchmarking LLMs via Culturally Elicited Distinct Affective Responses
-    authors: <strong><u>Chongyuan Dai*</u></strong>, Yaling Shen*, Jinpeng Hu, Zihan Gao, Jia Li, Yishun Jiang, Yaxiong Wang, Liu Liu, Zongyuan Ge
+    authors: <strong><u>Chongyuan Dai*</u></strong>, Yaling Shen*, Zihan Gao, Jia Li, Yishun Jiang, Yaxiong Wang, Liu Liu, Zongyuan Ge, Jinpeng Hu
     conference_short: ACL'26
-    conference: ACL 2026 Main Conference
+    conference: ACL 2026 Main
     pdf: https://aclanthology.org/2026.acl-long.1769.pdf
     code: https://github.com/MindIntLab-HFUT/CEDAR
     bibtex: ./assets/bib/tears_or_cheers.txt
@@ -13,7 +13,7 @@ main:
   - title: "Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning"
     authors: <strong><u>Chongyuan Dai</u></strong>, Jinpeng Hu, Hongchang Shi, Zhuo Li, Dan Guo, Xun Yang, Meng Wang
     conference_short: ACL'26
-    conference: ACL 2026 Main Conference
+    conference: ACL 2026 Main
     pdf: https://aclanthology.org/2026.acl-long.1141.pdf
     code: https://github.com/MindIntLab-HFUT/Psyche-R1
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
