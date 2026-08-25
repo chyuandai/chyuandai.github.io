@@ -1,0 +1,9 @@
+@misc{dai2026dontboxin,
+      title={Don' t Box Me In: Dynamic Cultural Adaptation and Cognitive Tracking for Social Understanding}, 
+      author={Chongyuan Dai and Yaling Shen and Shengeng Tang and Hui Ma and Jinpeng Hu},
+      year={2026},
+      eprint={2608.22411},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2608.22411}, 
+}

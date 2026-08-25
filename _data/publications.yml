@@ -21,6 +21,17 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/psyche_r1.png
 
+  - title: "Don' t Box Me In: Dynamic Cultural Adaptation and Cognitive Tracking for Social Understanding"
+    authors: <strong><u>Chongyuan Dai</u></strong>, Yaling Shen, Shengeng Tang, Hui Ma, Jinpeng Hu
+    conference_short: EMNLP'26
+    conference: EMNLP 2026 Findings
+    pdf: https://arxiv.org/pdf/2608.22411
+    code: https://github.com/MindIntLab-HFUT/DyCAC
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/bib/dycac.txt
+    # notes: Oral Presentation
+    image: ./assets/img/dycac.png
+
   - title: "Beyond Emotion Recognition: A Multi-Turn Multimodal Emotion Understanding and Reasoning Benchmark"
     authors: Jinpeng Hu, Hongchang Shi, <strong><u>Chongyuan Dai</u></strong>, Zhuo Li, Peipei Song, Meng Wang
     conference_short: MM'26
