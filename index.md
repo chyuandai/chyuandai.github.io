@@ -10,9 +10,9 @@ My research interests include **Affective Computing, Social Intelligence, Large 
 
 ## News
 
-- **[Aug. 2026]** 1 paper was accepted to **EMNLP 2026 Findings**! 🎉
+- **[Aug. 2026]** One paper was accepted to **EMNLP 2026 Findings**! 🎉
 - **[Jul. 2026]** ["Tears or Cheers"](https://aclanthology.org/2026.acl-long.1769.pdf) was selected as an **ACL 2026 SAC Highlight**! 🎉
-- **[Apr. 2026]** 2 papers were accepted to **ACL 2026 Main**! 🎉
+- **[Apr. 2026]** Two papers were accepted to **ACL 2026 Main**! 🎉
 
 {% include_relative _includes/publications.md %}
 
