@@ -40,7 +40,7 @@ font: "Serif" # or "Sans Serif"
 
 # Flag Counter (visitor map at the bottom of the page)
 # Create your own counter at https://flagcounter.com/ and put its ID here (e.g. the "xxxx" in s01.flagcounter.com/count2/xxxx/...)
-# flag_counter: YOUR_ID
+flag_counter: e6oX
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
