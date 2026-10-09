@@ -38,6 +38,10 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
+# Quote shown at the bottom of the page
+quote: "I need to find a calm or ambition that negates my worldly ambitions of success since that's not a wholesome mode to be in, causes more stress and 'need' than happiness."
+quote_author: Avicii
+
 # Flag Counter (visitor map at the bottom of the page)
 # Create your own counter at https://flagcounter.com/ and put its ID here (e.g. the "xxxx" in s01.flagcounter.com/count2/xxxx/...)
 flag_counter: e6oX
