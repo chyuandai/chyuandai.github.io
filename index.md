@@ -18,3 +18,5 @@ My research focuses on **Affective Computing, Social Intelligence, Large Languag
 
 {% include_relative _includes/experiences.md %}
 
+{% include_relative _includes/projects.md %}
+
