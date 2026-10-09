@@ -10,9 +10,9 @@ My research focuses on **Affective Computing, Social Intelligence, Large Languag
 
 ## News
 
-- **[Aug. 2026]** One paper was accepted to **EMNLP 2026 Findings**! 🎉
-- **[Jul. 2026]** One paper was selected as an **[ACL 2026 SAC Highlight](assets/files/ACL_2026_SAC_Highlight.pdf)**! 🎉
-- **[Apr. 2026]** Two papers were accepted to **ACL 2026 Main**! 🎉
+- **[2026.08]** One paper was accepted to **EMNLP 2026 Findings**! 🎉
+- **[2026.07]** One paper was selected as an **[ACL 2026 SAC Highlight](assets/files/ACL_2026_SAC_Highlight.pdf)**! 🎉
+- **[2026.04]** Two papers were accepted to **ACL 2026 Main**! 🎉
 
 {% include_relative _includes/publications.md %}
 
