@@ -8,7 +8,7 @@ I am Chongyuan Dai (戴崇远), a final-year undergraduate at Hefei University o
 
 My research focuses on **Affective Computing, Social Intelligence, Large Language Models, and Natural Language Processing.** I am interested in how language models: (1) represent and respond to human factors such as emotion, culture, and social context [[CEDAR]](https://aclanthology.org/2026.acl-long.1769.pdf); and (2) develop stronger social and cognitive capabilities through human-AI interaction [[DyCAC]](https://arxiv.org/pdf/2608.22411).
 
-📢 <strong style="color:red">I am actively seeking 27Fall PhD/MS positions. Any opportunities would be greatly appreciated!</strong> 📢
+📢 <strong style="color:red">I am actively seeking 27Fall PhD/MS positions. Any opportunities would be greatly appreciated!</strong>
 
 ## News
 
