@@ -11,10 +11,10 @@
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --c-bg: #262624;
-    --c-surface: #30302E;
-    --c-border: #3E3E38;
-    --c-text: #C2C0B6;
+    --c-bg: #0F0F0E;
+    --c-surface: #1C1C1A;
+    --c-border: #2C2C29;
+    --c-text: #CFCDC4;
     --c-text-strong: #FAF9F5;
     --c-muted: #9C9A92;
     --c-accent: #D97757;
@@ -33,7 +33,7 @@ body { background-color: var(--c-bg); color: var(--c-text); }
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:var(--c-accent)!important;
+  color:var(--c-text-strong)!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
@@ -42,7 +42,7 @@ body { background-color: var(--c-bg); color: var(--c-text); }
 
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:var(--c-surface);
-    color:var(--c-accent-hover);
+    color:var(--c-text-strong);
     transform: scale(1.2)}
     /*
     .social-icons a:after {
@@ -61,7 +61,7 @@ body { background-color: var(--c-bg); color: var(--c-text); }
      */
 
 @media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:var(--c-surface);
-    color:var(--c-accent-hover);
+    color:var(--c-text-strong);
     transform: scale(1.2)} 
     /*
     .social-icons a:after {
@@ -253,6 +253,10 @@ h1 {
   font-weight: 500;
   color:var(--c-accent);
   margin:0 0 20px;
+}
+
+header h1 {
+  color:var(--c-text-strong);
 }
 
 h2 {
