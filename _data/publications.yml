@@ -4,7 +4,7 @@ main:
     authors: <strong><u>Chongyuan Dai</u></strong>, Yaling Shen, Shengeng Tang, Hui Ma, Jinpeng Hu
     conference_short: EMNLP'26
     conference: EMNLP 2026 Findings
-    pdf: https://arxiv.org/pdf/2608.22411
+    pdf: https://aclanthology.org/2026.findings-emnlp.1215.pdf
     code: https://github.com/MindIntLab-HFUT/DyCAC
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: ./assets/bib/dycac.txt
