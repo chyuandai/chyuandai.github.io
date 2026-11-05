@@ -32,6 +32,17 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/psyche_r1.png
 
+  - title: "Twists and Turns: A Graph-Based Benchmark and Framework for Long-Term Memory in Exploration Tasks"
+    authors: <strong><u>Chongyuan Dai</u></strong>, Yaling Shen, Zirui Song, Junfeng Liao, Jinpeng Hu, Xiuying Chen
+    conference_short: Preprint
+    conference: Preprint
+    pdf: https://arxiv.org/pdf/2611.06414
+    code: https://github.com/mbzuai-nlp/LExMem
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/bib/lexmem.txt
+    # notes: Oral Presentation
+    image: ./assets/img/lexmem.png
+
   - title: "Beyond Emotion Recognition: A Multi-Turn Multimodal Emotion Understanding and Reasoning Benchmark"
     authors: Jinpeng Hu, Hongchang Shi, <strong><u>Chongyuan Dai</u></strong>, Zhuo Li, Peipei Song, Meng Wang
     conference_short: MM'26

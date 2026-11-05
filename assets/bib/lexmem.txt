@@ -1,0 +1,9 @@
+@misc{dai2026twiststurnsgraphbasedbenchmark,
+      title={Twists and Turns: A Graph-Based Benchmark and Framework for Long-Term Memory in Exploration Tasks}, 
+      author={Chongyuan Dai and Yaling Shen and Zirui Song and Junfeng Liao and Jinpeng Hu and Xiuying Chen},
+      year={2026},
+      eprint={2611.06414},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2611.06414}, 
+}

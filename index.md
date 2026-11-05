@@ -6,7 +6,7 @@ layout: homepage
 
 I am Chongyuan Dai (戴崇远), a final-year undergraduate at Hefei University of Technology, China, advised by A/Prof. [Jinpeng Hu](https://scholar.google.com/citations?user=3xMIKfcAAAAJ&hl=en). Currently, I am a research intern at MBZUAI, UAE, advised by Asst. Prof. [Xiuying Chen](https://scholar.google.com/citations?user=COUnAF4AAAAJ&hl=en). I am so grateful to work with two excellent mentors, whose support has profoundly shaped my academic journey and life path.
 
-My research focuses on **Affective Computing, Social Intelligence, Large Language Models, and Natural Language Processing.** I am interested in how language models: (1) represent and respond to human factors such as emotion, culture, and social context [[CEDAR]](https://aclanthology.org/2026.acl-long.1769.pdf); and (2) develop stronger social and cognitive capabilities through human-AI interaction [[DyCAC]](https://arxiv.org/pdf/2608.22411).
+My research focuses on **Social Intelligence, Affective Computing, Large Language Models, and Natural Language Processing.** I am interested in how language models: (1) represent and respond to human factors such as emotion, culture, and social context ([CEDAR](https://aclanthology.org/2026.acl-long.1769.pdf)); (2) develop stronger social and cognitive capabilities through human-AI interaction ([DyCAC](https://arxiv.org/pdf/2608.22411)); and (3) apply in real-world scenarios ([Psyche-R1]{https://aclanthology.org/2026.acl-long.1141.pdf}, [LExMem]{https://arxiv.org/pdf/2611.06414}).
 
 📢 <strong style="color:red">I am actively seeking 27Fall PhD/MS positions. Any opportunities would be greatly appreciated!</strong>
 
